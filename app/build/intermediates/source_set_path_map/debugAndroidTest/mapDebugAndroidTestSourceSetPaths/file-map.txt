@@ -1,0 +1,6 @@
+com.apurba2509.weathersnap.test.app-annotation-experimental-1.3.0-0 C:\Users\kaush\.gradle\caches\8.13\transforms\6ba5a1d220e5a10730000ceeea4fe6b9\transformed\annotation-experimental-1.3.0\res
+com.apurba2509.weathersnap.test.app-core-1.5.0-1 C:\Users\kaush\.gradle\caches\8.13\transforms\e34e36dbbac704efad37b4f449e34732\transformed\core-1.5.0\res
+com.apurba2509.weathersnap.test.app-androidTest-2 D:\Apu\WeatherSnap\app\build\generated\res\resValues\androidTest\debug
+com.apurba2509.weathersnap.test.app-mergeDebugAndroidTestResources-3 D:\Apu\WeatherSnap\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.apurba2509.weathersnap.test.app-mergeDebugAndroidTestResources-4 D:\Apu\WeatherSnap\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.apurba2509.weathersnap.test.app-debugAndroidTest-5 D:\Apu\WeatherSnap\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

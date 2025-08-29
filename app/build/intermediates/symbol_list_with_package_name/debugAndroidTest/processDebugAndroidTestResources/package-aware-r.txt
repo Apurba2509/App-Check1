@@ -1,0 +1,3 @@
+com.apurba2509.weathersnap.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

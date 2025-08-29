@@ -1,0 +1,2 @@
+com.apurba2509.weathersnap.test:style/WhiteBackgroundTheme = 0x7f010001
+com.apurba2509.weathersnap.test:style/WhiteBackgroundDialogTheme = 0x7f010000
